@@ -1,0 +1,1 @@
+import{E as t}from"./el-empty-feLn0dhg.js";import{_ as s,o as n,c,y as a,s as r}from"./index-rxmky4rM.js";const _={},p={class:"info-page"};function d(f,e){const o=t;return n(),c("div",p,[e[0]||(e[0]=a("h2",null,"个人信息",-1)),r(o,{description:"开发中..."})])}const m=s(_,[["render",d],["__scopeId","data-v-59ee0308"]]);export{m as default};
