@@ -1,0 +1,1 @@
+import{E as s}from"./el-empty-BC9fqj3n.js";import{_ as o,o as c,c as n,y as a,s as r}from"./index-TNjpwlEG.js";const _={},d={class:"settings-page"};function p(i,e){const t=s;return c(),n("div",d,[e[0]||(e[0]=a("h2",null,"设置",-1)),r(t,{description:"开发中..."})])}const f=o(_,[["render",p],["__scopeId","data-v-615945dc"]]);export{f as default};

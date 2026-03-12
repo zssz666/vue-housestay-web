@@ -1,0 +1,1 @@
+import{E as o}from"./el-empty-BC9fqj3n.js";import{_ as s,o as c,c as r,y as a,s as n}from"./index-TNjpwlEG.js";const _={},d={class:"security-page"};function p(i,e){const t=o;return c(),r("div",d,[e[0]||(e[0]=a("h2",null,"账号安全",-1)),n(t,{description:"开发中..."})])}const f=s(_,[["render",p],["__scopeId","data-v-c75d49c4"]]);export{f as default};
